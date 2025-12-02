@@ -78,5 +78,7 @@ Research + implementation combining ML risk scoring, threat detection, and adver
 🧩 Fun Facts About Me
 
 💪 Gym girlie energy: I love strength training & running
+
 ☕ Latte lover: I will never say no to a good coffee
+
 🎨 Aesthetic nerd: I enjoy creating cute, cozy, aesthetic AI-generated visuals
