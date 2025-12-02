@@ -1,5 +1,5 @@
 🌟 Hi, I'm Spoorthy Reddy Ittireddy
-
+---
 👩🏻‍💻 Data Scientist & AI/ML Engineer | 3+ Years of Experience
 🎓 MS in Information Science @ University of New Haven (Dec 2025)
 📍 Based in Connecticut, USA
@@ -8,6 +8,7 @@ I’m passionate about building real-world AI/ML solutions from computer vision 
 I love transforming messy data into meaningful insights and deploying models that actually work in production. ✨🤖
 
 🧠 Skills & Technologies
+---
 💻 Languages: Python · SQL · C · C++ · MySQL · HTML · CSS
 
 🧩 Core CS: Data Structures & Algorithms
@@ -28,7 +29,7 @@ Lasso · Ridge · K-Means · PCA
 🔌 APIs & MLOps: FastAPI · Flask · Docker · CI/CD
 
 📌 Featured Projects
-
+---
 🌍 RealityStream — ML Integration (Model Earth)
 
 Supporting AI pipelines, classifiers, and cloud-deployment workflows for geospatial visualization systems.
@@ -42,15 +43,17 @@ End-to-end NLP pipeline using LSTM, GRU, and BERT to analyze emotional patterns 
 Research + implementation combining ML risk scoring, threat detection, and adversarial analysis.
 
 🌐 Connect With Me
-
+---
 📩 Email: spoorthyittireddy@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/spoorthy-reddy-ittireddy
 
 🧩 Fun Facts About Me
-
+---
 💪 Gym girlie energy: I love strength training & running
 
 ☕ Latte lover: I will never say no to a good coffee
 
 🎨 Aesthetic nerd: I enjoy creating cute, cozy, aesthetic AI-generated visuals
+
+
