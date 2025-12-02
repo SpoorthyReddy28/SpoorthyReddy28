@@ -8,52 +8,24 @@ I’m passionate about building real-world AI/ML solutions from computer vision 
 I love transforming messy data into meaningful insights and deploying models that actually work in production. ✨🤖
 
 🧠 Skills & Technologies
-💻 Languages
+💻 Languages: Python · SQL · C · C++ · MySQL · HTML · CSS
 
-Python · SQL · C · C++ · HTML · CSS
+🧩 Core CS: Data Structures & Algorithms
 
-🧩 Core CS
-
-Data Structures & Algorithms
-
-🗄️ Databases & Version Control
-
-Git · MySQL
-
-🧪 Frameworks & Libraries
-
-TensorFlow · Keras · Scikit-Learn · PyTorch · NumPy · Pandas · Matplotlib · Plotly · Flask
+🧪 Frameworks & Libraries: TensorFlow · Keras · Scikit-Learn · PyTorch · NumPy · Pandas · Matplotlib · Plotly · Flask
 ✨ Prompt Engineering (Gemini Models)
 
-📊 Visualization
+📊 Visualization: Tableau · Power BI · Excel
 
-Tableau · Power BI · Excel
-
-🤖 Machine Learning & AI
-
-Linear/Logistic Regression · Decision Trees · Random Forest · Naive Bayes ·
+🤖 Machine Learning & AI: Linear/Logistic Regression · Decision Trees · Random Forest · Naive Bayes ·
 SVM · KNN · Gradient Boosting · AdaBoost · XGBoost ·
 Lasso · Ridge · K-Means · PCA
 
-🧬 Deep Learning
+🧬 Deep Learning: ANNs · CNNs · RNNs
 
-ANNs · CNNs · RNNs
+🗣️ NLP & Computer Vision: spaCy · NER · LSTMs · GANs · YOLO · Transformers
 
-🗣️ NLP & Computer Vision
-
-spaCy · NER · LSTMs · GANs · YOLO · Transformers
-
-🔌 APIs & MLOps
-
-FastAPI · Flask · Docker · CI/CD
-
-☁️ Cloud
-
-AWS
-
-🧰 Development Tools
-
-VS Code · Jupyter Notebook · PyCharm
+🔌 APIs & MLOps: FastAPI · Flask · Docker · CI/CD
 
 📌 Featured Projects
 
