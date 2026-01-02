@@ -1,6 +1,6 @@
 🌟 Hi, I'm Spoorthy Reddy Ittireddy
 ---
-👩🏻‍💻 Data Scientist & AI/ML Engineer | 3+ Years of Experience
+👩🏻‍💻 Data Scientist & AI/ML Engineer 
 🎓 MS in Information Science @ University of New Haven (Dec 2025)
 📍 Based in Connecticut, USA
 
@@ -30,10 +30,6 @@ Lasso · Ridge · K-Means · PCA
 
 📌 Featured Projects
 ---
-🌍 RealityStream — ML Integration (Model Earth)
-
-Supporting AI pipelines, classifiers, and cloud-deployment workflows for geospatial visualization systems.
-
 💬 Healthcare Sentiment Analysis
 
 End-to-end NLP pipeline using LSTM, GRU, and BERT to analyze emotional patterns in patient feedback.
